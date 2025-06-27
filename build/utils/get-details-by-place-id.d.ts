@@ -17,5 +17,4 @@
  * const placeDetails = await getDetailsByPlaceId("ChIJN1t_tDeuEmsRUsoyG83frY4");
  * console.log(placeDetails?.name, placeDetails?.geometry?.location?.lat());
  */
-declare const getDetailsByPlaceId: (placeId: string, fields?: string[] | undefined) => Promise<google.maps.places.PlaceResult | null>;
-export default getDetailsByPlaceId;
+export declare const getDetailsByPlaceId: (placeId: string, fields?: string[] | undefined) => Promise<google.maps.places.PlaceResult | null>;
