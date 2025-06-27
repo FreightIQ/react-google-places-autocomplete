@@ -31,7 +31,6 @@ typings/
 .env
 
 # Ignore build
-build
 
 .DS_Store
 
