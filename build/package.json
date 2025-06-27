@@ -1,6 +1,6 @@
 {
-  "name": "react-google-places-autocomplete",
-  "version": "4.1.0",
+  "name": "freightid-react-google-places-autocomplete",
+  "version": "0.0.1",
   "description": "Google places autocomplete input for ReactJS.",
   "main": "build/index.js",
   "module": "build/index.es.js",
@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tintef/react-google-places-autocomplete.git"
+    "url": "git+https://github.com/FreightIQ/react-google-places-autocomplete.git"
   },
   "author": "Nicolás Tinte",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Tintef/react-google-places-autocomplete/issues"
+    "url": "https://github.com/FreightIQ/react-google-places-autocomplete/issues"
   },
-  "homepage": "https://github.com/Tintef/react-google-places-autocomplete#readme",
+  "homepage": "https://github.com/FreightIQ/react-google-places-autocomplete#readme",
   "keywords": [
     "react",
     "google-places",
