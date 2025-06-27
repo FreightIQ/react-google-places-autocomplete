@@ -23,7 +23,7 @@
 
 # React Google Places Autocomplete
 
-React component for easily use Google Places Autocomplete shri 1
+React component for easily use Google Places Autocomplete
 
 
 ## Getting started
